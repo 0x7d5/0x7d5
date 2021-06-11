@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @0x7d5
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning in school
+- 💞️ I’m looking to collaborate on NULL
